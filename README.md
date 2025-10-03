@@ -67,7 +67,6 @@ Tools used:
 
 ---
 
-
 ## Tech Stack
 
 * Python 3.13
@@ -79,5 +78,3 @@ Tools used:
 ## Author
 
 Built by `@bonifasiusx` – Capstone M2 | Data Science
-
-*For academic and learning purposes only*
